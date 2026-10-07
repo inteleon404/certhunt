@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://github.com/INTELEON404/Template/blob/main/certhunt.png" width="700" alt="CERTHUNT Logo"/>
+<img width="297" height="58" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/69ef6a53-1db9-4912-bf6f-59169755dd4e" />
   <br><br>
 </div>
 
-# CERTHUNT v1.3
 
 **Passive Subdomain Reconnaissance & Validation Tool**
 
